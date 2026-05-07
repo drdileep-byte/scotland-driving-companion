@@ -1,0 +1,18 @@
+{
+  "name": "Scotland Driving Companion",
+  "short_name": "Scotland Trip",
+  "description": "Offline day-by-day driving guide with GPS, parking, food, and backup plans.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f9fb",
+  "theme_color": "#183b56",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
